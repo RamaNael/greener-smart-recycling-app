@@ -1,16 +1,61 @@
-# greener
+# Greener – Smart Recycling App
 
-A new Flutter project.
+Greener is a Flutter-based mobile application developed as a graduation project to support a smart recycling system.  
+The application helps users monitor smart recycling devices, track recycling statistics, and earn reward points for sustainable behavior.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- User registration and login
+- Firebase authentication
+- Google Sign-In integration
+- Smart device monitoring dashboard
+- Recycling statistics and analytics
+- Rewards system for recycling activity
+- Profile and account management
+- Admin device management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- REST APIs
+- Google Sign-In
+
+---
+
+## App Screenshots
+
+### Onboarding & Registration
+
+![Onboarding and Registration](screenshots/onboarding_and_registration.jpg)
+
+### Login & Settings
+
+![Login and Settings](screenshots/login_and_settings.jpg)
+
+### Device Monitoring Dashboard
+
+![Device Monitoring](screenshots/device_monitoring_dashboard.jpg)
+
+### Statistics & Rewards
+
+![Statistics and Rewards](screenshots/statistics_and_rewards.jpg)
+
+---
+
+## Achievement
+
+🏆 1st Place – IT Faculty Graduation Projects Competition
+
+---
+
+## Author
+
+Rama Mansoor  
+Flutter Mobile Developer

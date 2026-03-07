@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "greener-storage",
+          "appId": "1:931006881329:android:3a905cd0dcb9cbf278ff10",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "greener-storage",
+          "configurations": {
+            "android": "1:931006881329:android:3a905cd0dcb9cbf278ff10",
+            "ios": "1:931006881329:ios:19b5867b1113df8978ff10",
+            "macos": "1:931006881329:ios:19b5867b1113df8978ff10",
+            "web": "1:931006881329:web:bfdf99e343b423e678ff10",
+            "windows": "1:931006881329:web:9c3eefdeb282331a78ff10"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ]
+    }
+  ]
+}

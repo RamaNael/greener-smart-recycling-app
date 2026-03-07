@@ -1,0 +1,58 @@
+name: greener
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_fonts: ^6.1.0
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.4
+
+  # ✅ Firebase Packages
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.17.5
+  firebase_database: ^10.4.5
+  cloud_firestore: ^4.17.5
+  firebase_storage: ^11.6.6
+  image_picker: ^1.1.1
+  google_sign_in: ^6.1.4
+
+  # ✅ Utilities
+  fl_chart: ^0.63.0
+  shared_preferences: ^2.2.2
+  http: ^1.1.0
+  uuid: ^4.0.0
+
+  # ✅ New Circle Indicator for Percentages
+  percent_indicator: ^4.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "images/notext.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/notext.png
+    - images/greener_text.png
+    - images/blk.png
+    - images/flag.png
+    - images/google.png
+    - images/onboarding1.png
+    - images/onboarding2.png
+    - images/onboarding3.png
+    - images/onboarding4.png

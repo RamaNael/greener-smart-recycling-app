@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "931006881329",
+    "firebase_url": "https://greener-storage-default-rtdb.firebaseio.com",
+    "project_id": "greener-storage",
+    "storage_bucket": "greener-storage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931006881329:android:3a905cd0dcb9cbf278ff10",
+        "android_client_info": {
+          "package_name": "com.example.greener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931006881329-2bmoacgqnbkgrmromtclkpjd9kbh7i0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greener",
+            "certificate_hash": "623005f5416ec519e9b318abd01c8dc54528b807"
+          }
+        },
+        {
+          "client_id": "931006881329-rnfcoiqcacp8v276k9hfor195q34b74n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbiTty3pkLEZNMxFUMbRetPiBv_KiE-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931006881329-rnfcoiqcacp8v276k9hfor195q34b74n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931006881329-l6pjgut1k2ob7nm1m0i74h9jm64htbdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.greener"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

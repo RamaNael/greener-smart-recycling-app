@@ -73,7 +73,7 @@ This structure improves maintainability and scalability.
 
 ## 📱 Main System Screenshot
 
-![Login and Settings](Main_System_screenshots/Login_and_Setting_pages.jpg)
+![Login and Settings](Greener-main/Main_System_screenshots/Login_and_Setting_pages.jpg)
 ---
 
 ## 🚀 Installation

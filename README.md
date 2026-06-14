@@ -77,8 +77,7 @@ Add your application screenshots here.
 
 ### Login Screen
 
-![Login Screen](screenshots/login.png)
-
+https://github.com/RamaNael/greener-smart-recycling-app/blob/main/Greener-main/Main_System_screenshots/Login_and_Setting_pages.jpg
 ### Home Screen
 
 ![Home Screen](screenshots/home.png)

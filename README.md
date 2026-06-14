@@ -119,8 +119,6 @@ As a Mobile Application Developer in the project team, I contributed to:
 * Authentication features
 * API integration
 * State management using Provider
-* Testing and debugging
-* Performance improvements
 
 ---
 

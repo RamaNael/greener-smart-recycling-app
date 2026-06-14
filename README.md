@@ -71,10 +71,15 @@ This structure improves maintainability and scalability.
 
 ---
 
-## 📱 Main System Screenshot
+## 📱 Application Screenshots
 
-![Login and Settings](Greener-main/Main_System_screenshots/Login_and_Setting_pages.jpg)
----
+| Onboarding & Registration | Login & Settings |
+|--------------------------|------------------|
+| ![](Greener-main/Main_System_screenshots/Onboarding_and_Registeration_Pages.jpg) | ![](Greener-main/Main_System_screenshots/Login_and_Setting_pages.jpg) |
+
+| Statistics & Rewards | Device Monitoring Dashboard |
+|---------------------|-----------------------------|
+| ![](Greener-main/Main_System_screenshots/Statistics_and_Rewards_pages.jpg) | ![](Greener-main/Main_System_screenshots/DevicesMonitoringDashboard_page.jpg) |
 
 ## 🚀 Installation
 

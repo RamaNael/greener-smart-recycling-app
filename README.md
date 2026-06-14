@@ -71,21 +71,9 @@ This structure improves maintainability and scalability.
 
 ---
 
-## 📱 Screenshots
+## 📱 Main System Screenshot
 
-Add your application screenshots here.
-
-### Login Screen
-
-https://github.com/RamaNael/greener-smart-recycling-app/blob/main/Greener-main/Main_System_screenshots/Login_and_Setting_pages.jpg
-### Home Screen
-
-![Home Screen](screenshots/home.png)
-
-### Statistics Screen
-
-![Statistics](screenshots/statistics.png)
-
+![Login and Settings](Main_System_screenshots/Login_and_Setting_pages.jpg)
 ---
 
 ## 🚀 Installation
